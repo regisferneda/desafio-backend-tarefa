@@ -1,0 +1,9 @@
+Escolhi a linguagem Java, pois já estou fazendo alguns cursos na linguagem C#.
+A ideia era aprender uma linguagem diferente e buscando exemplos de uma API REST, encontrei explicações usando Java e Spring.
+O desenvolvimento ficou simples e incompleto (sem todos os requisitos e funcionalidades) devido ao zero conhecimento que tenho na área, já que estou começando,
+e devido a disponibilidade do tempo (tinha projetos da faculdade para a mesma data).
+Mesmo assim o desafio foi de grande contribuição para meu aprendizado e pretendo seguir trabalhando nele para adquirir novos conhecimentos.
+
+
+Utilizar a collection que inclui no projeto para testar.
+

@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "83ea4fdd-f2e9-432c-b266-6a99b8e404a0",
+		"name": "API Tarefas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Cadastrar Usuário",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"nome\": \"Regis\",\n\t\"email\": \"regis@exemplo.com\",\n    \"senha\": \"123456\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/cadastrar_usuario",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"cadastrar_usuario"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
